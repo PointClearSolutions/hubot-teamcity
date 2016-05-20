@@ -1,8 +1,5 @@
-# Description:
+# Description
 #   wrapper for TeamCity REST API
-#
-# Dependencies:
-#   "underscore": "1.3.3"
 #
 # Configuration:
 #   HUBOT_TEAMCITY_USERNAME = <user name>
@@ -24,7 +21,7 @@
 # Author:
 #   Micah Martin and Jens Jahnke
 # Contributors:
-#   Abraham Polishchuk
+#   Abraham Polishchuk, PointClear Solutions
 
 util           = require 'util'
 _              = require 'underscore'
